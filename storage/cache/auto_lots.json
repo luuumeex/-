@@ -1,0 +1,106 @@
+{
+    "services": {
+        "1": {
+            "api_url": "https://twiboost.com/api/v2",
+            "api_key": "ik9L3ubaLy8h38IH6OSObLUc4mggrPY4taUKg7HCknpFfjNCr8BSOzc2XuYt"
+        }
+    },
+    "auto_refunds": false,
+    "confirm_link": true,
+    "messages": {
+        "after_payment": "❤️ Благодарим за оплату!\n\nЧтобы начать накрутку, отправьте корректную ссылку на вашу страницу или пост в социальных сетях. Ссылка должна начинаться с \"https://\", например:\n\nПример: https://telegra.ph/Primery-ssylok-09-13-2\n\nБез правильной ссылки накрутка не будет запущена. Убедитесь, что она ведет на активную страницу, доступную для общего просмотра.",
+        "after_confirmation": "🎉 Ваш заказ успешно оформлен!\n\n🔢 ID заказа в сервисе: {twiboost_id}\n🔗 Для отслеживания переходите по ссылке: {link}\n\n📋 Доступные команды:\n🔍 чек {twiboost_id} — Проверить статус заказа (выводит информацию о заказе)\n🔄 рефилл {twiboost_id} — Запросить рефилл (работает лишь с гарантией - восстанавливает отписанных подписчиков)\n\nЕсли у вас возникнут вопросы, не стесняйтесь обращаться!"
+    },
+    "notification_chat_id": null,
+    "send_auto_lots": true,
+    "send_auto_lots_interval": 30,
+    "auto_start": true,
+    "lot_mapping": {
+        "lot_1": {
+            "name": "🚀 TG Бусты на 1 день | RU аккаунты | Быстро ✅",
+            "service_id": 3684,
+            "quantity": 1,
+            "service_number": 1
+        },
+        "lot_2": {
+            "name": "🚀 TG Бусты на 7 дней | RU аккаунты | Быстро",
+            "service_id": 4641,
+            "quantity": 1,
+            "service_number": 1
+        },
+        "lot_3": {
+            "name": "🚀 TG Бусты на 30 дней | RU аккаунты | Быстро",
+            "service_id": 4643,
+            "quantity": 1,
+            "service_number": 1
+        },
+        "lot_4": {
+            "name": "✅【Telegram】НАКРУТКА ГОЛОСОВ В ОПРОСЕ БЫСТРЫЕ🚀 ✅",
+            "service_id": 2812,
+            "quantity": 1,
+            "service_number": 1
+        },
+        "lot_5": {
+            "name": "✅【Telegram】НАКРУТКА ПОДПИСЧИКОВ НА КАНАЛ БЫСТРЫЕ‼️НАКРУТКА БОТОМ‼️ 🚀✅",
+            "service_id": 3836,
+            "quantity": 1,
+            "service_number": 1
+        },
+        "lot_6": {
+            "name": "✅【Telegram】НАКРУТКА ПРОСМОТРОВ НА 1 ПОСТ БЫСТРЫЕ🚀 (ПОКУПКА ОТ 50 ШТ)✅",
+            "service_id": 4703,
+            "quantity": 1,
+            "service_number": 1
+        },
+        "lot_7": {
+            "name": "✅【Telegram】НАКРУТКА РЕАКЦИЙ НА 1 ПОСТ ПОЗИТВНЫХ [👍🤩🎉🔥❤️🥰👏🏻🥳😍❤️‍🔥💯] (НА ВЫБОР,ПОКУПКА ОТ 10 ШТ)🚀",
+            "service_id": 4753,
+            "quantity": 1,
+            "service_number": 1
+        },
+        "lot_8": {
+            "name": "✅【Telegram】НАКРУТКА РЕАКЦИЙ НА 1 ПОСТ НЕГАТИВЫНЫХ [🖕💔👎😢💩🤮🤬😡🥱🍌😈] (ПОКУПКА ОТ 10 ШТ)🚀",
+            "service_id": 4752,
+            "quantity": 1,
+            "service_number": 1
+        },
+        "lot_9": {
+            "name": "✅【INSTAGRAM】НАКРУТКА ПОДПИСЧИКОВ БЫСТРЫЕ🚀 (ПОКУПКА ОТ 100ШТ)✅",
+            "service_id": 1475,
+            "quantity": 1,
+            "service_number": 1
+        },
+        "lot_10": {
+            "name": "✅【INSTAGRAM】НАКРУТКА ЛАЙКОВ НА 1 ПОСТ БЫСТРЫЕ🚀 (ПОКУПКА ОТ 50 ШТ)✅",
+            "service_id": 1749,
+            "quantity": 1,
+            "service_number": 1
+        },
+        "lot_11": {
+            "name": "✅【INSTAGRAM】НАКРУТКА ПРОСМОТРОВ НА REELS БЫСТРЫЕ🚀 (ПОКУПКА ОТ 100 ШТ)✅",
+            "service_id": 2591,
+            "quantity": 1,
+            "service_number": 1
+        },
+        "lot_12": {
+            "name": "🚀 Накрутка просмотров в TikTok | Быстрый старт | Россия + СНГ",
+            "service_id": 4358,
+            "quantity": 1,
+            "service_number": 1
+        },
+        "lot_13": {
+            "name": "🚀 Накрутка лайков | Быстрый старт | Гарантия 30 дней",
+            "service_id": 2619,
+            "quantity": 1,
+            "service_number": 1
+        },
+        "lot_14": {
+            "name": "🚀 Накрутка подписчиков | Быстрый старт | до 50к/сутки | Покупка от 10 шт",
+            "service_id": 4286,
+            "quantity": 1,
+            "service_number": 1
+        }
+    },
+    "new_order_notifications": false,
+    "subcategory_ids": []
+}

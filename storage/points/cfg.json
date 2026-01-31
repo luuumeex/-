@@ -1,0 +1,77 @@
+{
+    "api_key": "a29b7a402b5b159837fc7e52c461c83be293d4da4e8ac3bc2524223d0adac05b",
+    "auto_refunds": false,
+    "auto_restock": false,
+    "managers": [],
+    "order_history": [
+        {
+            "order_id": "DUAYBM55",
+            "buyer_id": 18271542,
+            "qty": 5000,
+            "link": "https://steamcommunity.com/id/Lamatv229",
+            "revenue": 80.0,
+            "cost": 50.0,
+            "units": 1,
+            "points_per_unit": 5000,
+            "timestamp": "2026-01-04 12:58:05"
+        },
+        {
+            "order_id": "G7RDAVSB",
+            "buyer_id": 15739499,
+            "qty": 16000,
+            "link": "https://steamcommunity.com/profiles/76561199109305316/",
+            "revenue": 272.0,
+            "cost": 160.0,
+            "units": 16000,
+            "points_per_unit": 1,
+            "timestamp": "2026-01-06 13:26:19"
+        },
+        {
+            "order_id": "L6EH8BAK",
+            "buyer_id": 15564703,
+            "qty": 9500,
+            "link": "https://steamcommunity.com/profiles/76561199814838148/",
+            "revenue": 161.5,
+            "cost": 95.0,
+            "units": 9500,
+            "points_per_unit": 1,
+            "timestamp": "2026-01-07 17:46:47"
+        },
+        {
+            "order_id": "ZPL765MV",
+            "buyer_id": 3549365,
+            "qty": 15000,
+            "link": "https://steamcommunity.com/id/sawaramma/",
+            "revenue": 255.0,
+            "cost": 150.0,
+            "units": 15000,
+            "points_per_unit": 1,
+            "timestamp": "2026-01-07 20:25:41"
+        },
+        {
+            "order_id": "DYSH76DX",
+            "buyer_id": 18301541,
+            "qty": 3000,
+            "link": "https://steamcommunity.com/profiles/76561199427238309/",
+            "revenue": 102.0,
+            "cost": 45.0,
+            "units": 12,
+            "points_per_unit": 250,
+            "timestamp": "2026-01-08 11:41:40"
+        }
+    ],
+    "lot_manager": {
+        "balance_threshold": 0,
+        "auto_deactivate": false,
+        "saved_lots": [],
+        "lots_active": true
+    },
+    "templates": {
+        "start_message": "✅ Заказ получен!\n💎 Количество очков: {total_points} ({points_per_unit} за единицу × {units} шт.)\n\nУкажите ссылку на Ваш профиль Steam:",
+        "invalid_link": "❌ Неверная ссылка на профиль Steam. Формат должен быть:\nhttps://steamcommunity.com/id/ВашID или\nhttps://steamcommunity.com/profiles/7656119XXXXXXXXXX",
+        "link_confirmation": "✅ Ссылка принята: {link}\nПодтвердите: + / -",
+        "purchase_success": "🎉 Успешно! {qty} очков добавлено!\n👉 Отслеживать: https://steamcommunity.com/profiles/{steam64}/awards\n📥 Награды могут приходить до 20 минут.",
+        "purchase_error": "❌ Ошибка: {error}",
+        "insufficient_balance": "❌ Недостаточно средств! Средства возвращены."
+    }
+}

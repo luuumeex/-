@@ -1,0 +1,6 @@
+{
+    "time_unit": 2,
+    "reminder_text": "Заказ выполнен. Пожалуйста, зайдите в раздел «Покупки», выберите его в списке и нажмите кнопку «Подтвердить выполнение заказа». \n\nПодтвердите тут -> https://funpay.com/orders/{order_id}/",
+    "tg_reminders_notify": true,
+    "tg_reminders_chats": []
+}

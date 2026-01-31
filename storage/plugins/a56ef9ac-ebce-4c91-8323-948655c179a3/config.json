@@ -1,0 +1,10 @@
+{
+    "phpsessid": "W7yrTtGaTjbfwPd1sPLX4nj-Tpc7g0G%2C",
+    "check_interval_seconds": 300,
+    "auto_ticket_message": "Пожалуйста, подтвердите заказы: {order_ids}",
+    "manual_ticket_message": "Подтвердите заказ: {order_id}",
+    "auto_send_enabled": true,
+    "auto_send_order_limit": 5,
+    "auto_send_interval_seconds": 3600,
+    "telegram_chat_id": null
+}

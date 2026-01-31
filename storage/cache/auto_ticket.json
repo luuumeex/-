@@ -1,0 +1,9 @@
+{
+    "imap": {
+        "SMTP_SERVER": "smtp.gmail.com",
+        "SMTP_PORT": 587,
+        "EMAIL": "example@gmail.com",
+        "PASSWORD": "1234 1234 1234 1234",
+        "SUPPORT_EMAIL": "example@gmail.com"
+    }
+}
